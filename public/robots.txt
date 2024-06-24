@@ -1,3 +1,81 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+
+
+https://github.com/harlandlohora.png
+
+https://avatars.githubusercontent.com/u/91544872?v=4 de genesys
+
+https://github.com/JeanmarieAluraLatam.png
+
+https://github.com/christianpva.png
+
+https://github.com/JoseDarioGonzalezCha.png
+
+
+
+id: uuid(),
+    equipo: "Front End",
+    foto:"https://github.com/harlandlohora.png",
+    nombre:"Hardland Lohora",
+    puesto:"Instructor"
+  },
+  {
+    id: uuid(),
+    equipo: "Programación",
+    foto:"https://avatars.githubusercontent.com/u/91544872?v=4",
+    nombre:"Genesys Rondón",
+    puesto:"Desarrolladora de software e instructora "
+  },
+  {
+    id: uuid(),
+    equipo: "Deveops",
+    foto:"https://avatars.githubusercontent.com/u/91544872?v=4",
+    nombre:"Genesys Rondón",
+    puesto:"Desarrolladora de software e instructora "
+  },
+  {
+    id: uuid(),
+    equipo: "UX y Diseño",
+    foto:"https://avatars.githubusercontent.com/u/91544872?v=4",
+    nombre:"Genesys Rondón",
+    puesto:"Desarrolladora de software e instructora "
+  },
+  {
+    id: uuid(),
+    equipo: "Data Science",
+    foto:"https://github.com/JeanmarieAluraLatam.png",
+    nombre:"Jean Marie Quijada",
+    puesto:"Instructora"
+  },
+  {
+    id: uuid(),
+    equipo: "Deveops",
+    foto:"https://github.com/JeanmarieAluraLatam.png",
+    nombre:"Jean Marie Quijada",
+    puesto:"Instructora"
+  },
+  {
+    id: uuid(),
+    equipo: "Móvil",
+    foto:"https://github.com/JoseDarioGonzalezCha.png",
+    nombre:"José Gonzalez",
+    puesto:"Dev Fullstack"
+  },
+  {
+    id: uuid(),
+    equipo: "Innovación y Gestión",
+    foto:"https://github.com/harlandlohora.png",
+    nombre:"Hardland Lohora",
+    puesto:"Diseñador"
+  },
+  {
+    id: uuid(),
+    equipo: "Innovación y Gestión",
+    foto:"https://github.com/JoseDarioGonzalezCha.png",
+    nombre:"José Gonzalez",
+    puesto:"Dev Fullstack"
+  },
+  ])
